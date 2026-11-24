@@ -1,4 +1,6 @@
-# 🚀 Project Name
+Demo video = https://drive.google.com/file/d/18cW2Pl5cDGeVY1oLgx_1wL8DlycBtncY/view?usp=sharing
+
+web = https://saveiq-ai-savings-goal-tracker.vercel.app/
 
 ## 📌 About the Project
 Project Name is a simple application developed to solve a real-world problem. It helps users perform tasks easily and efficiently.
